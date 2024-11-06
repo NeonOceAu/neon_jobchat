@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/NeonOceAu/neon_jobchat/total?color=blue&style=flat-square)
 
 # Neon Job & Gang Chat for QB-Core
 
